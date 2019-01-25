@@ -1,0 +1,46 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+
+/*-----------------------
+Splash Container / Wrapper
+-------------------------*/
+
+.splash-container {
+    width: 100%;
+    max-width: 400px;
+    padding: 15px;
+    padding-top: 14%;
+    margin: auto;
+}
+
+.splash-container .card-header {
+    padding: 20px;
+}
+.splash-container .card-body .text-center{
+    padding-bottom: 10px;
+}
+.splash-description {
+    text-align: center;
+    display: block;
+    line-height: 20px;
+    font-size: 1rem;
+    margin-top: 5px;
+    padding-bottom: 10px;
+}
+
+.splash-title {
+    text-align: center;
+    display: block;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.splash-container .card-footer-item {
+    padding: 12px 28px;
+}
+.row{
+    padding: 25px;
+}
+
